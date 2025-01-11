@@ -78,7 +78,7 @@ EXPENSE-TRACKER/
 │
 ├── expenses.py           # Main Python script
 ├── README.md             # Project documentation
-└──LICENSE               # License file
+└── LICENSE               # License file
 ```
 
 ---
